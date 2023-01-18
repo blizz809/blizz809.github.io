@@ -1,0 +1,64 @@
+h2 {
+  text-decoration: underline;
+  color: goldenrod;
+}
+p {
+  font-size: 15px;
+  color: darkblue;
+  font-style: italic;
+}
+ul {
+  font-style: italic;
+}
+
+a {
+  color: purple;
+}
+form {
+  padding: 15px;
+  background-color: white;
+  font-style: italic;
+  border-style: solid;
+  font-weight: 900px;
+}
+
+input[type="button"] {
+  color: black;
+  background-color: rgb(0, 200, 0);
+  padding: 0.4em 0.8em;
+  margin: 25;
+}
+input[type="button"]:hover {
+  border: solid;
+  background-color: rgb(0, 200, 0);
+}
+/* second page  */
+h2 {
+  text-decoration: underline;
+  font-style: initial;
+}
+a {
+  color: purple;
+}
+
+#image {
+  position: relative;
+}
+h3 {
+  color: darkgoldenrod;
+  font-style: oblique;
+}
+body {
+  background-color: lightgrey;
+}
+.goal {
+  font-style: normal;
+}
+* {
+  margin: 1;
+  padding: 15;
+  border: 15;
+}
+#tv {
+  position: fixed;
+}
